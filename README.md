@@ -1,2 +1,5 @@
-# Hello-world-
-First project(Hello world!)
+#include<stdio.h>
+int main(void)
+{
+    printf("Hello world!\n");
+}
